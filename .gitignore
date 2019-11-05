@@ -1,5 +1,5 @@
 # Project exclude paths
-/target/
 /.idea/
+my-app.iml
+/target/
 /build/
-/my-app.im
